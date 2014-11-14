@@ -1,0 +1,20 @@
+<style type="text/css">
+			h1{
+				color: red;
+			}
+			h3{
+				color: blue;
+				background-color: green;
+			}
+			#Languages_title{
+					color: purple;
+				}
+	
+			.Language_item{
+					color: blue;
+				}
+
+			p{
+				font-family: 'Arial';
+			}
+		</style>
